@@ -6,4 +6,4 @@ Einfacher Linktr.ee clone in html & css.
 
 ---
 
-[Download]()
+[Download](https://codeload.github.com/wolfkidsounds/linktree/zip/refs/heads/main)
